@@ -1,0 +1,1 @@
+{"team": "agent_gnn", "run_id": "run_001", "type": "llm-only", "model": "deterministic-no-download-gnn-prior", "notes": "Generated with only files present on disk."}
