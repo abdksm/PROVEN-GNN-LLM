@@ -1,7 +1,7 @@
 {
-  "team": "proven_gnn_solution",
+  "team": "Kimi K2.6",
   "run_id": "run_001",
-  "type": "human+llm",
+  "type": "llm-only",
   "model": "GIN",
   "notes": "Token-level GNN using GINConv with embedding layer. Trained on 5K samples from DiverseVul JSON."
 }
