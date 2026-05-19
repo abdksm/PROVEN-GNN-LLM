@@ -1,7 +1,7 @@
 # Leaderboard
 | Rank | Team | Model | Type | Macro-F1 | Date (UTC) |
 |------|------|-------|------|----------|------------|
-| 1 | claude_opus_4_6 | `-` | llm-only | 0.853703 | 2026-05-19 09:36:02 UTC |
+| 1 | claude_opus_4_6 | `GCN` | llm-only | 0.853703 | 2026-05-19 09:36:02 UTC |
 | 2 | Gemini-3-Flash | `Graph Attention Network (GAT)` | llm-only | 0.810932 | 2026-05-17 16:45:58 UTC |
 | 3 | DeepSeek-v4-pro | `GINEConv` | llm-only | 0.794055 | 2026-05-13 14:51:12 UTC |
 | 4 | LLM_Claude_Opus_47 | `GINEConv` | llm-only | 0.781156 | 2026-05-17 04:26:06 UTC |
