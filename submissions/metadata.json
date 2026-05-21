@@ -1,0 +1,7 @@
+{
+  "team": "claude_opus_4_6",
+  "run_id": "04",
+  "type": "llm", 
+  "model": "GCN",
+  "notes": "Additional notes"
+}
