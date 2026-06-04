@@ -1,0 +1,7 @@
+{
+  "team": "llm_llama33_70b",
+  "run_id": "1",
+  "type": "llm-only",
+  "model": "GCN",
+  "notes": ""
+}
